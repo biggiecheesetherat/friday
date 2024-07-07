@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "scrollSpeed": { "easy": 1.3, "normal": 1.3, "hard": 1.3 },
+    "notes": {
+      "normal": [
+        { "t": 84666, "d": 1 }
+      ],
+      "hard": [
+        { "t": 84666, "d": 1 }
+      ],
+      "easy": [
+        { "t": 84666, "d": 1 }
+      ]
+    },
+    "events": [
+    ],
+    "generatedBy": "."
+  }
+  
