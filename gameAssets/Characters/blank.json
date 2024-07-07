@@ -1,0 +1,20 @@
+{   
+    "name":"i cant do it",
+    "title":"its not worth it its not worth it",
+    "animations":{
+        "idle":{"frames":"1"},
+        "up":{"frames":"1"},
+        "down":{"frames":"1"},
+        "left":{"frames":"1"},
+        "right":{"frames":"1"},
+        "seconds per frame":0.025
+    },
+    "offsets":{
+        "idle":{"x":0,"y":0},
+        "up":{"x":0,"y":50},
+        "down":{"x":40,"y":-25},
+        "left":{"x":-25,"y":15},
+        "right":{"x":30,"y":25}
+    },
+    "healthColor":"#af66ce"
+}
