@@ -1,0 +1,25 @@
+{
+  "version": "2.2.2",
+  "songName": "FRIDAY",
+  "artist": "FRIDAY",
+  "timeFormat": "ms",
+  "timeChanges": [{ "t": 0, "bpm": 180, "n": 4, "d": 4, "bt": [4, 4, 4, 4] }],
+  "playData": {
+    "album": "volume1",
+    "previewStart": 0,
+    "previewEnd": 0,
+    "ratings": { "easy": 5, "normal": 5, "hard": 5 },
+    "difficulties": ["easy", "normal", "hard"],
+    "characters": {
+      "player": "blank",
+      "girlfriend": "blank",
+      "opponent": "blank",
+      "instrumental": "",
+      "altInstrumentals": []
+    },
+    "stage": "mainStage",
+    "noteStyle": "funkin"
+  },
+  "offsets": { "instrumental": 0.0 },
+  "generatedBy": "."
+}
